@@ -8,7 +8,7 @@ My name is Axel Vasquez, live in Buenos Aires, Argentina. I'm an information sec
 
 Pull requests and stars are always welcome. For bugs, questions and feature requests, [please create an issue](https://github.com/axelvf/axelvf.github.io/issues).
 
-* Special thanks to [@iamcgd](https://github.com/iamcgd) for help me with the design.
+* Special thanks to [@pecasdesign](https://github.com/pecasdesign) for help me with the design.
 
 
 ## :black_nib: License
